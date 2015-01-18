@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	width: 220px;
+	margin: 2px;
+	border: 2px solid #6ec17c;
+	border-radius: 5px;
+}
+
+h1 {
+	font-family: monospace;
+	text-align: center;
+	padding: 10px 0;
+	color: #fff;
+	background-color: #6ec17c;
+	font-size: 25px;
+	font-weight: 200;
+}
+
+table {
+	margin: 0 auto;
+}
+
+td {
+	padding: 10px 5px;
+	font-family: monospace;
+	font-size: 15px;
+	text-align: left;
+}
+
+#time, #para, #words {
+	text-align: left;
+}
